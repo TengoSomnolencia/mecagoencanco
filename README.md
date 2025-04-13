@@ -1,2 +1,2 @@
 # mecagoencanco
-Aqui se describiran los ejercicios
+Aqui se mostraran los ejercicios
